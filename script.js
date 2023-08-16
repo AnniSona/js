@@ -1,6 +1,6 @@
 // К А Л Ь К У Л Я Т О Р
 
-const operation = prompt("Введите операцию");
+const operator = prompt("Введите операцию");
 const num1 = +prompt("Введите число");
 const num2 = +prompt("Введите второе число");
 
